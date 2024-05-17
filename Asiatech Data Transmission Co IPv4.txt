@@ -1,0 +1,260 @@
+5.134.192.0/21	IR 	Asiatech Data Transmission Co.
+5.134.192.0/22	IR 	Asiatech Data Transmission Co.
+31.7.64.0/22	IR 	Asiatech Data Transmission company
+31.7.67.0/24	IR 	Asiatech Data Transmission company
+31.7.68.0/23	IR 	Asiatech Data Transmission company
+31.7.70.0/23	IR 	Asiatech Data Transmission company
+31.7.70.0/24	IR 	Asiatech Data Transmission company
+31.7.72.0/22	IR 	Asiatech Data Transmission company
+31.7.72.0/23	IR 	Asiatech Data Transmission company
+31.7.72.0/24	IR 	Asiatech Data Transmission company
+31.7.74.0/23	IR 	Asiatech Data Transmission company
+31.7.76.0/22	IR 	Asiatech Data Transmission company
+31.7.78.0/24	IR 	Asiatech Data Transmission company
+31.25.128.0/21	IR 	Asiatech Data Transmission Co.
+31.25.128.0/22	IR 	Asiatech Data Transmission Co.
+31.25.132.0/22	IR 	Asiatech Data Transmission Co.
+31.216.62.0/24	IR 	Arya Net Mahmoudabad Company LLC
+37.156.8.0/22	IR 	Asiatech Data Transmission Co.
+37.156.12.0/22	IR 	Asiatech Data Transmission Co.
+37.156.144.0/22	IR 	Asiatech Data Transmission company
+37.156.144.0/23	IR 	Asiatech Data Transmission company
+37.156.144.0/24	IR 	Asiatech Data Transmission company
+37.156.145.0/24	IR 	Asiatech Data Transmission company
+37.156.146.0/23	IR 	Asiatech Data Transmission company
+37.156.146.0/24	IR 	Asiatech Data Transmission company
+37.156.147.0/24	IR 	Asiatech Data Transmission company
+46.143.0.0/19	IR 	Asiatech Data Transmission Co.
+46.143.0.0/22	IR 	Asiatech Data Transmission Co.
+46.143.4.0/22	IR 	Asiatech Data Transmission Co.
+46.143.8.0/22	IR 	Asiatech Data Transmission Co.
+46.143.12.0/22	IR 	Asiatech Data Transmission Co.
+46.143.16.0/22	IR 	Asiatech Data Transmission Co.
+46.143.20.0/22	IR 	Asiatech Data Transmission Co.
+46.143.24.0/22	IR 	Asiatech Data Transmission Co.
+46.143.28.0/22	IR 	Asiatech Data Transmission Co.
+46.143.32.0/19	IR 	Asiatech Data Transmission Co.
+46.143.32.0/22	IR 	Asiatech Data Transmission Co.
+46.143.36.0/22	IR 	Asiatech Data Transmission Co.
+46.143.40.0/22	IR 	Asiatech Data Transmission Co.
+46.143.44.0/22	IR 	Asiatech Data Transmission Co.
+46.143.48.0/22	IR 	Asiatech Data Transmission Co.
+46.143.52.0/22	IR 	Asiatech Data Transmission Co.
+46.143.56.0/22	IR 	Asiatech Data Transmission Co.
+46.143.60.0/22	IR 	Asiatech Data Transmission Co.
+46.143.64.0/19	IR 	Asiatech NOC - Management Area
+46.143.64.0/22	IR 	Asiatech NOC - Management Area
+46.143.68.0/22	IR 	Asiatech NOC - Management Area
+46.143.72.0/22	IR 	Asiatech NOC - Management Area
+46.143.76.0/22	IR 	Asiatech NOC - Management Area
+46.143.80.0/22	IR 	Asiatech NOC - Management Area
+46.143.84.0/22	IR 	Asiatech NOC - Management Area
+46.143.88.0/22	IR 	Asiatech NOC - Management Area
+46.143.92.0/22	IR 	Asiatech NOC - Management Area
+46.143.96.0/19	IR 	Asiatech NOC - Management Area
+46.143.96.0/22	IR 	Asiatech NOC - Management Area
+46.143.100.0/22	IR 	Asiatech NOC - Management Area
+46.143.104.0/22	IR 	Asiatech NOC - Management Area
+46.143.108.0/22	IR 	Asiatech NOC - Management Area
+46.143.112.0/22	IR 	Asiatech NOC - Management Area
+46.143.116.0/22	IR 	Asiatech NOC - Management Area
+46.143.120.0/22	IR 	Asiatech NOC - Management Area
+46.143.124.0/22	IR 	Asiatech NOC - Management Area
+46.245.64.0/18	IR 	Asiatech Data Transmission Co.
+46.245.64.0/22	IR 	Asiatech Data Transmission Co.
+46.245.68.0/22	IR 	Asiatech Data Transmission Co.
+46.245.72.0/22	IR 	Asiatech Data Transmission Co.
+46.245.76.0/22	IR 	Asiatech Data Transmission Co.
+46.245.76.0/24	IR 	Asiatech Data Transmission Co.
+46.245.80.0/22	IR 	Asiatech Data Transmission Co.
+46.245.84.0/22	IR 	Asiatech Data Transmission Co.
+46.245.84.0/24	IR 	Asiatech Data Transmission Co.
+46.245.87.0/24	IR 	Asiatech Data Transmission Co.
+46.245.88.0/22	IR 	Asiatech Data Transmission Co.
+46.245.92.0/22	IR 	Asiatech Data Transmission Co.
+46.245.96.0/22	IR 	Asiatech Data Transmission Co.
+46.245.100.0/22	IR 	Asiatech Data Transmission Co.
+46.245.104.0/22	IR 	Asiatech Data Transmission Co.
+46.245.108.0/22	IR 	Asiatech Data Transmission Co.
+46.245.112.0/22	IR 	Asiatech Data Transmission Co.
+46.245.116.0/22	IR 	Asiatech Data Transmission Co.
+46.245.120.0/22	IR 	Asiatech Data Transmission Co.
+46.245.124.0/22	IR 	Asiatech Data Transmission Co.
+77.238.104.0/22	IR 	Asiatech Data Transmission Co.
+77.238.108.0/22	IR 	Asiatech Data Transmission Co.
+77.238.109.0/24	IR 	Asiatech Data Transmission Co.
+77.238.110.0/24	IR 	Asiatech Data Transmission Co.
+77.238.120.0/22	IR 	Asiatech Data Transmission company
+77.238.120.0/24	IR 	Asiatech Data Transmission company
+77.238.121.0/24	IR 	Asiatech Data Transmission company
+77.238.122.0/24	IR 	Asiatech Data Transmission company
+77.238.123.0/24	IR 	Asiatech Data Transmission company
+78.110.124.0/22	IR 	Asiatech Data Transmission company
+79.127.0.0/17	IR 	Asiatech Data Transmission Co.
+79.127.0.0/18	IR 	Asiatech Data Transmission Co.
+79.127.0.0/19	IR 	Asiatech Data Transmission Co.
+79.127.4.0/22	IR 	Asiatech Data Transmission Co.
+79.127.12.0/22	IR 	Asiatech Data Transmission Co.
+79.127.23.0/24	IR 	Asiatech Data Transmission Co.
+79.127.24.0/24	IR 	Asiatech Data Transmission Co.
+79.127.25.0/24	IR 	Asiatech Data Transmission Co.
+79.127.27.0/24	IR 	Asiatech Data Transmission Co.
+79.127.32.0/19	IR 	Asiatech Data Transmission Co.
+79.127.42.0/24	IR 	Asiatech Data Transmission Co.
+79.127.48.0/20	IR 	Asiatech Data Transmission Co.
+79.127.64.0/18	IR 	Asiatech Data Transmission Co.
+79.127.76.0/22	IR 	Asiatech Data Transmission Co.
+79.127.76.0/24	IR 	Asiatech Data Transmission Co.
+79.127.77.0/24	IR 	Asiatech Data Transmission Co.
+79.127.78.0/24	IR 	Asiatech Data Transmission Co.
+79.127.79.0/24	IR 	Asiatech Data Transmission Co.
+79.127.80.0/20	IR 	Asiatech Data Transmission Co.
+79.127.84.0/22	IR 	Asiatech Data Transmission Co.
+79.127.96.0/19	IR 	Asiatech Data Transmission Co.
+79.127.120.0/23	IR 	Asiatech Data Transmission Co.
+79.127.124.0/24	IR 	Asiatech Data Transmission Co.
+79.127.125.0/24	IR 	Asiatech Data Transmission company
+79.127.126.0/23	IR 	Asiatech Data Transmission company
+79.127.127.0/24	IR 	Asiatech Data Transmission company
+85.198.28.0/22	IR 	Asiatech Data Transmission company
+85.198.28.0/23	IR 	Asiatech Data Transmission company
+86.57.0.0/22	IR 	Sefroyek Pardaz Engineering PJSC
+86.57.4.0/22	IR 	Sefroyek Pardaz Engineering PJSC
+86.57.8.0/22	IR 	Sefroyek Pardaz Engineering PJSC
+86.57.12.0/22	IR 	Sefroyek Pardaz Engineering PJSC
+86.57.16.0/22	IR 	Sefroyek Pardaz Engineering PJSC
+86.57.20.0/22	IR 	Sefroyek Pardaz Engineering PJSC
+86.57.24.0/22	IR 	Sefroyek Pardaz Engineering PJSC
+86.57.28.0/22	IR 	Sefroyek Pardaz Engineering PJSC
+86.57.32.0/22	IR 	Asiatech Data Transmission Co.
+86.57.36.0/22	IR 	Asiatech Data Transmission Co.
+86.57.40.0/22	IR 	Asiatech Data Transmission Co.
+86.57.44.0/22	IR 	Asiatech Data Transmission Co.
+86.57.48.0/22	IR 	Asiatech Data Transmission Co.
+86.57.52.0/22	IR 	Asiatech Data Transmission Co.
+86.57.56.0/22	IR 	Asiatech Data Transmission Co.
+86.57.60.0/22	IR 	Asiatech Data Transmission Co.
+86.57.64.0/22	IR 	Asiatech Data Transmission Co.
+86.57.68.0/22	IR 	Asiatech Data Transmission Co.
+86.57.72.0/22	IR 	Asiatech Data Transmission Co.
+86.57.76.0/22	IR 	Asiatech Data Transmission Co.
+86.57.80.0/22	IR 	Asiatech Data Transmission Co.
+86.57.84.0/22	IR 	Asiatech Data Transmission Co.
+86.57.88.0/22	IR 	Asiatech Data Transmission Co.
+86.57.92.0/22	IR 	Asiatech Data Transmission Co.
+86.57.100.0/22	IR 	Asiatech Data Transmission Co.
+86.57.104.0/22	IR 	Asiatech Data Transmission Co.
+86.57.108.0/22	IR 	Asiatech Data Transmission Co.
+86.57.112.0/22	IR 	Asiatech Data Transmission Co.
+86.57.116.0/22	IR 	Asiatech Data Transmission Co.
+86.57.120.0/22	IR 	Asiatech Data Transmission Co.
+86.57.124.0/22	IR 	Asiatech Data Transmission Co.
+89.41.40.0/22	IR 	Asiatech Data Transmission Co.
+89.41.40.0/23	IR 	Asiatech Data Transmission Co.
+89.41.42.0/23	IR 	Asiatech Data Transmission Co.
+89.235.96.0/22	IR 	Asiatech Data Transmission Co.
+91.207.205.0/24	IR 	Rayan Dadeh Negar Dena LLC
+93.115.144.0/21	IR 	Asiatech Data Transmission Co.
+93.115.144.0/22	IR 	Asiatech Data Transmission Co.
+93.115.148.0/23	IR 	Asiatech Data Transmission Co.
+93.115.150.0/24	IR 	Asiatech Data Transmission company
+93.115.151.0/24	IR 	Asiatech Data Transmission company
+93.118.180.0/22	IR 	Asiatech Data Transmission Co.
+93.118.180.0/23	IR 	Asiatech Data Transmission Co.
+93.118.182.0/23	IR 	Asiatech Data Transmission Co.
+109.122.224.0/20	IR 	Asiatech Data Transmission Co.
+109.122.224.0/21	IR 	Asiatech Data Transmission Co.
+109.122.232.0/21	IR 	Asiatech Data Transmission Co.
+128.65.176.0/20	IR 	Asiatech Data Transmission Co.
+128.65.176.0/21	IR 	Asiatech Data Transmission Co.
+128.65.184.0/21	IR 	Asiatech Data Transmission Co.
+176.65.240.0/22	IR 	Asiatech Data Transmission Co.
+176.65.241.0/24	IR 	Asiatech Data Transmission Co.
+176.65.242.0/24	IR 	Asiatech Data Transmission Co.
+176.65.243.0/24	IR 	Asiatech Data Transmission Co.
+176.65.252.0/23	IR 	Asiatech Data Transmission Co.
+176.65.254.0/24	IR 	Asiatech Data Transmission Co.
+178.22.120.0/21	IR 	Asiatech Data Transmission company
+178.22.120.0/22	IR 	Asiatech Data Transmission company
+178.22.120.0/24	IR 	Asiatech Data Transmission company
+178.22.121.0/24	IR 	Asiatech Data Transmission company
+178.22.122.0/24	IR 	Asiatech Data Transmission company
+178.22.123.0/24	IR 	Asiatech Data Transmission company
+178.22.124.0/22	IR 	Asiatech Data Transmission Co.
+178.22.124.0/24	IR 	Asiatech Data Transmission Co.
+178.22.127.0/24	IR 	Asiatech Data Transmission Co.
+178.216.248.0/22	IR 	Asiatech Data Transmission company
+178.216.248.0/24	IR 	Asiatech Data Transmission company
+178.216.249.0/24	IR 	Asiatech Data Transmission company
+178.216.250.0/24	IR 	Asiatech Data Transmission company
+178.216.251.0/24	IR 	Asiatech Data Transmission company
+178.239.155.0/24	IR 	unkown
+185.49.84.0/22	IR 	Asiatech Data Transmission company
+185.49.84.0/24	IR 	Asiatech Data Transmission company
+185.49.85.0/24	IR 	Asiatech Data Transmission company
+185.49.86.0/24	IR 	Asiatech Data Transmission company
+185.49.87.0/24	IR 	Asiatech Data Transmission company
+185.98.112.0/22	IR 	Asiatech Data Transmission Co.
+185.98.112.0/24	IR 	Asiatech Data Transmission Co.
+185.98.113.0/24	IR 	Asiatech Data Transmission Co.
+185.98.114.0/24	IR 	Asiatech Data Transmission Co.
+185.98.115.0/24	IR 	Asiatech Data Transmission Co.
+185.99.212.0/22	IR 	Asiatech Data Transmission Co.
+185.99.212.0/23	IR 	Asiatech Data Transmission Co.
+185.99.214.0/23	IR 	Asiatech Data Transmission Co.
+185.109.244.0/22	IR 	Asiatech Data Transmission Co.
+185.109.244.0/23	IR 	Asiatech Data Transmission Co.
+185.109.245.0/24	IR 	Asiatech Data Transmission Co.
+185.109.246.0/23	IR 	Asiatech Data Transmission Co.
+185.109.248.0/22	IR 	Asiatech Data Transmission Co.
+185.109.248.0/23	IR 	Asiatech Data Transmission Co.
+185.109.249.0/24	IR 	Asiatech Data Transmission Co.
+185.109.250.0/23	IR 	Asiatech Data Transmission Co.
+185.112.32.0/21	IR 	Asiatech Data Transmission company
+185.112.32.0/22	IR 	Asiatech Data Transmission company
+185.112.32.0/24	IR 	Asiatech Data Transmission company
+185.112.33.0/24	IR 	Asiatech Data Transmission company
+185.112.34.0/24	IR 	Asiatech Data Transmission company
+185.112.35.0/24	IR 	Asiatech Data Transmission company
+185.112.36.0/22	IR 	Asiatech Data Transmission Co.
+185.120.220.0/22	IR 	Asiatech Data Transmission company
+185.120.220.0/24	IR 	Asiatech Data Transmission company
+185.120.221.0/24	IR 	Asiatech Data Transmission company
+185.120.223.0/24	IR 	Asiatech Data Transmission company
+185.120.248.0/22	IR 	Asiatech Data Transmission Co.
+185.120.248.0/23	IR 	Asiatech Data Transmission Co.
+185.128.167.0/24	IR 	Hoor
+185.141.168.0/24	IR 	Asiatech Data Transmission company
+185.141.169.0/24	IR 	Asiatech Data Transmission company
+185.141.170.0/24	IR 	Asiatech Data Transmission company
+185.141.171.0/24	IR 	Asiatech Data Transmission company
+185.141.212.0/24	IR 	Asiatech Data Transmission company
+185.141.213.0/24	IR 	Asiatech Data Transmission company
+185.141.214.0/24	IR 	Asiatech Data Transmission company
+185.141.215.0/24	IR 	Asiatech Data Transmission company
+185.147.160.0/24	IR 	Asiatech Data Transmission company
+185.147.161.0/24	IR 	Asiatech Data Transmission company
+185.147.162.0/24	IR 	Asiatech Data Transmission company
+185.147.163.0/24	IR 	Asiatech Data Transmission Co.
+185.166.115.0/24	IR 	TVA
+188.0.240.0/24	IR 	Asiatech Data Transmission company
+188.0.241.0/24	IR 	Asiatech Data Transmission company
+193.111.234.0/24	IR 	Pentaserver - Milad Tower, Asiatech DC
+193.134.100.0/24	IR 	Pentaserver - Milad Tower, Asiatech DC
+193.151.151.0/24	IR 	Asiatech NOC - Management Area
+194.36.174.0/24	IR 	DorisHost
+212.23.216.0/24	IR 	Parsway Shomal Company Ltd
+212.33.192.0/22	IR 	Asiatech Data Transmission company
+212.33.194.0/24	IR 	Asiatech Data Transmission company
+212.33.195.0/24	IR 	Asiatech Data Transmission company
+212.33.196.0/22	IR 	Asiatech Data Transmission Co.
+212.33.196.0/24	IR 	Asiatech Data Transmission Co.
+212.33.198.0/24	IR 	Asiatech Data Transmission Co.
+212.33.200.0/22	IR 	Asiatech Data Transmission Co.
+212.33.201.0/24	IR 	Asiatech Data Transmission Co.
+212.33.202.0/24	IR 	Asiatech Data Transmission Co.
+212.33.204.0/22	IR 	Asiatech Data Transmission Co.
+212.33.204.0/24	IR 	Asiatech Data Transmission Co.
+212.33.205.0/24	IR 	Asiatech Data Transmission Co.
+212.33.206.0/24	IR 	Asiatech Data Transmission Co.
+212.80.10.0/24	IR 	Head Manager

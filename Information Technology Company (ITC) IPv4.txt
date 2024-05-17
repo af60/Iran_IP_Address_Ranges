@@ -1,0 +1,3 @@
+2.188.80.0/21	IR 	Information Technology Company (ITC)
+2.188.81.0/24	IR 	Information Technology Company (ITC)
+2.188.88.0/21	IR 	Information Technology Company (ITC)

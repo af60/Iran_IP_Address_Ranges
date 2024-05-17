@@ -1,0 +1,3 @@
+185.162.217.0/24	IR 	 Azad University
+185.162.218.0/24	IR 	 Azad University
+185.162.219.0/24	IR 	 Azad University

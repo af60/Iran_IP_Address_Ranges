@@ -1,0 +1,14 @@
+2a05:1a00::/26	IR 	Asiatech Data Transmission company
+2a05:1a00::/37	IR 	Asiatech Data Transmission company
+2a05:1a00:800::/37	IR 	Asiatech Data Transmission company
+2a05:1a00:1000::/37	IR 	Asiatech Data Transmission company
+2a05:1a00:1800::/37	IR 	Asiatech Data Transmission company
+2a05:1a00:2000::/37	IR 	Asiatech Data Transmission company
+2a05:1a00:2800::/37	IR 	Asiatech Data Transmission company
+2a05:1a00:3000::/37	IR 	Asiatech Data Transmission company
+2a05:1a00:3800::/37	IR 	Asiatech Data Transmission company
+2a05:1a10::/29	IR 	Asiatech Data Transmission company
+2a05:1a10:2001::/48	IR 	Asiatech Data Transmission company
+2a05:1a10:3000::/48	IR 	Asiatech Data Transmission company
+2a05:9080:2::/48	IR 	TokenServer.net VPS provider
+2a06:5484::/30	IR 	Asiatech Data Transmission company
